@@ -17,3 +17,4 @@ Web site hosted on GitHub via GitHib Pages.
 ![Success Message](http://image.prntscr.com/image/3a7226b5100a43d6bbb902f943b7bb58.png)
 
 
+#### There you have it, folks! Your working website hosted on GitHub.
