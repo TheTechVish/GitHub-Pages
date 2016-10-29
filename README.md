@@ -12,7 +12,8 @@ Web site hosted on GitHub via GitHib Pages.
 5. Now, click on `index.html` file and then **`Branch:Master`** button to add GitHub Pages branch by typing `gh-pages`.
 ![GitHub-Pages](http://image.prntscr.com/image/5a0950a293b8482ea5b6b3dc32fbafd4.png)
 
-6. Now, click on settings and scroll down until you find **`GitHub Pages`** section. There you will see a success message with web page URL:
+6. Now, click on **`Settings`** and scroll down until you find **`GitHub Pages`** section. There you will see a success message with web page URL:
+
 ![Success Message](http://image.prntscr.com/image/3a7226b5100a43d6bbb902f943b7bb58.png)
 
 
