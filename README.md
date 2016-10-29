@@ -13,7 +13,7 @@ Web site hosted on GitHub via GitHib Pages.
 
 4. After successful upload, click on Commit to finishing the upload process.
 
-5. Now, click on 'index.html' file and then Branch:Master button to add GitHub Pages branch by typing 'gh-pages'.
+5. Now, click on **`index.html`** file and then Branch:Master button to add GitHub Pages branch by typing **`gh-pages`**.
 
 ![GitHub-Pages](http://image.prntscr.com/image/5a0950a293b8482ea5b6b3dc32fbafd4.png)
 
